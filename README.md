@@ -18,11 +18,11 @@ A C# windows form and web application for recording, viewing, and editing foreca
  2. Visual Studio 2019
 
 ### Login details that exist (key - username:password):
-Username: AdminOne
-Password: admin123
-User Role: Admin
+Username: AdminOne\
+Password: admin123\
+User Role: Admin\
 
-Username: John
-Password: smith123
-User Role: General User
+Username: John\
+Password: smith123\
+User Role: General User\
 Favourite Cities: Durban, Mumbai, Sandton
