@@ -1,0 +1,76 @@
+﻿body {
+    background-color: rgba(41, 44, 51, 1) !important;
+    color: white !important;
+}
+
+.header {
+    text-align: center;
+    background-color: #009688 !important;
+    color: white !important;
+}
+
+.content {
+    text-align: center;
+}
+
+.jumbotron p {
+    font-size: 1.1em !important;
+}
+
+.loginForm {
+
+    text-align: center;
+}
+
+p{
+    font-size: 1.1em;
+}
+
+hr{
+    background-color: white;
+}
+
+.form-control {
+    width: 300px !important;
+    margin: 0 auto !important;
+}
+
+#btnLogin {
+    color: #fff;
+    background-color: #009688;
+    border-color: #343a40;
+    padding: 10px;
+    font-size: 1.5em;
+    width: 150px;
+}
+
+@media (max-width: 750px) {
+
+    #btnLogin {
+        color: #fff;
+        background-color: #009688;
+        border-color: #343a40;
+        padding: 10px;
+        font-size: 0.7em;
+        width: 15%;
+    }
+}
+
+#btnLogin:hover {
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+}
+
+.errorMsg {
+    color: #F44336;
+    text-align: center;
+}
+
+.successLink {
+    color: wheat;
+}
+
+a.successLink:hover {
+    color: wheat;
+}

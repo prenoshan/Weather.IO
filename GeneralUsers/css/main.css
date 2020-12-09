@@ -1,0 +1,11 @@
+﻿.SignOut {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.SignOut:hover {
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.5);
+    border: none;
+}

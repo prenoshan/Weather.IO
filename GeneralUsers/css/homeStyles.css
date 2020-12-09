@@ -1,0 +1,48 @@
+﻿body {
+    background-color: rgba(41, 44, 51, 1) !important;
+    color: white !important;
+}
+
+.header {
+    text-align: center;
+    background-color: #009688 !important;
+    color: white !important;
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: #009688 !important;
+    border-color: #343a40 !important;
+    padding: 15px !important;
+    font-size: 1.5em !important;
+    width: 20% !important;
+}
+
+@media (max-width: 750px) {
+
+    .btn-dark {
+        color: #fff !important;
+        background-color: #009688 !important;
+        border-color: #343a40 !important;
+        padding: 10px !important;
+        font-size: 0.7em !important;
+        width: 20% !important;
+    }
+}
+
+.btn-dark:hover {
+    background-color: #23272b !important;
+    border-color: #1d2124 !important;
+}
+
+.jumbotron p {
+    font-size: 1.1em;
+}
+
+.content {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 95%;
+    margin: 0 auto;
+}
