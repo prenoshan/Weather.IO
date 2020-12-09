@@ -17,7 +17,7 @@ A C# windows form and web application for recording, viewing, and editing foreca
  1. SQL server localDB 2019 or higher
  2. Visual Studio 2019
 
-### Login details that exist (key - username:password):
+### Login details that exist:
 Username: AdminOne\
 Password: admin123\
 User Role: Admin
