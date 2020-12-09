@@ -20,7 +20,7 @@ A C# windows form and web application for recording, viewing, and editing foreca
 ### Login details that exist (key - username:password):
 Username: AdminOne\
 Password: admin123\
-User Role: Admin\
+User Role: Admin
 
 Username: John\
 Password: smith123\
